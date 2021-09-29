@@ -1,0 +1,48 @@
+.userPhoto {
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+}
+
+.user {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    color: white;
+}
+
+.userSubscribe {
+    float: left;
+}
+
+.userInfo {
+    float: left;
+    height: 70px;
+    width: 70%;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+}
+
+.mainInfo {
+
+}
+
+.location {
+
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.pageNumber {
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+
+.pageNumber span {
+    cursor: pointer;
+}
